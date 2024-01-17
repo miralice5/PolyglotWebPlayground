@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "outFile": "./static/main.js"
+    },
+    "include": [
+        "./static/main.ts"
+    ]
+}
