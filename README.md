@@ -6,13 +6,11 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
+# PolyglotWebPlayground
 
 ![GIPHY](https://media.giphy.com/media/l41m1CuaT5Oy624Ra/giphy.gif)
 
 *GIF via [GIPHY](https://giphy.com/gifs/vaporwave-kotutohum-l41m1CuaT5Oy624Ra)*
-
-
-# PolyglotWebPlayground
 
 Welcome to PolyglotWebPlayground, a versatile web application that allows you to experiment with multiple programming languages in one place. Whether you're coding in Go, Python, TypeScript, or JavaScript, this playground provides a seamless environment for your creative exploration.
 
