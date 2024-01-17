@@ -1,0 +1,52 @@
+<!-- java.html (Web App for PolyglotWebPlayground - Java Page) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programming Wizard - Java</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <style>
+        /* Rainbow text changing gradients animation */
+        @keyframes rainbow {
+            0% { color: violet; }
+            16.666% { color: indigo; }
+            33.333% { color: blue; }
+            50% { color: green; }
+            66.666% { color: yellow; }
+            83.333% { color: orange; }
+            100% { color: red; }
+        }
+
+        /* Flashing animation */
+        @keyframes flash {
+            0% { opacity: 1; }
+            50% { opacity: 0; }
+            100% { opacity: 1; }
+        }
+
+        h1 {
+            font-size: 4em;
+            margin: 0;
+            animation: rainbow 7s infinite alternate, flash 1s infinite;
+        }
+    </style>
+</head>
+<body>
+    <h1>PROGRAMMING WIZARD</h1>
+
+    <!-- Code editor for Java -->
+    <h2>Java Code Editor</h2>
+    <textarea id="java-code" rows="5" cols="50"></textarea>
+    <button onclick="runCode('run_java')">Run Java</button>
+
+    <!-- Output display -->
+    <h2>Output</h2>
+    <textarea id="output" rows="10" cols="50"></textarea>
+
+    <!-- Include TypeScript and JavaScript scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typescript/4.4.3/typescript.min.js"></script>
+    <script src="/static/main.js" type="text/javascript"></script>
+</body>
+</html>
