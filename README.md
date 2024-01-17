@@ -1,5 +1,11 @@
 
 # PolyglotWebPlayground
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 Welcome to PolyglotWebPlayground, a versatile web application that allows you to experiment with multiple programming languages in one place. Whether you're coding in Go, Python, TypeScript, or JavaScript, this playground provides a seamless environment for your creative exploration.
 
