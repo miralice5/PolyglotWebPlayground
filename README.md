@@ -5,7 +5,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-# GIPHY Embed
 
 ![GIPHY](https://media.giphy.com/media/l41m1CuaT5Oy624Ra/giphy.gif)
 
