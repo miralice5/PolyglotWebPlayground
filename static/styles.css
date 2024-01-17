@@ -1,0 +1,13 @@
+/* styles.css (CSS) */
+
+body {
+    background-color: #282c34;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+#output {
+    margin-bottom: 10px;
+}
