@@ -1,0 +1,33 @@
+<!-- templates/index.html (HTML) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web App</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <textarea id="output" rows="10" cols="50"></textarea>
+
+    <!-- Include TypeScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typescript/4.4.3/typescript.min.js"></script>
+
+    <!-- Include main.ts (TypeScript) -->
+    <script src="/static/main.js" type="text/javascript"></script>
+
+    <!-- Include main.js (JavaScript) -->
+    <script src="/static/main.js" type="text/javascript"></script>
+
+    <!-- Your HTML code -->
+    <textarea id="typescript-code" rows="5" cols="50"></textarea>
+    <button onclick="runTypeScriptCode()">Run TypeScript</button>
+
+    <textarea id="go-code" rows="5" cols="50"></textarea>
+    <button onclick="runCode('run_go')">Run Go</button>
+
+    <textarea id="python-code" rows="5" cols="50"></textarea>
+    <button onclick="runCode('run_python')">Run Python</button>
+</body>
+</html>
