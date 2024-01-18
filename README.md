@@ -68,16 +68,16 @@ Enjoy coding in multiple languages with PolyglotWebPlayground! 🚀
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Muusy-inc/IntelliBot.svg?style=for-the-badge
-[contributors-url]: https://github.com/Muusy-inc/IntelliBot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Muusy-inc/IntelliBot.svg?style=for-the-badge
-[forks-url]: https://github.com/Muusy-inc/IntelliBot/network/members
-[stars-shield]: https://img.shields.io/github/stars/Muusy-inc/IntelliBot.svg?style=for-the-badge
-[stars-url]: https://github.com/Muusy-inc/IntelliBot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Muusy-inc/IntelliBot.svg?style=for-the-badge
-[issues-url]: https://github.com/Muusy-inc/IntelliBot/issues
-[license-shield]: https://img.shields.io/github/license/Muusy-inc/IntelliBot.svg?style=for-the-badge
-[license-url]: https://github.com/Muusy-inc/IntelliBot/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/FFUV/PolyglotWebPlayground.svg?style=for-the-badge
+[contributors-url]: https://github.com/FFUV/PolyglotWebPlayground/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/FFUV/PolyglotWebPlayground.svg?style=for-the-badge
+[forks-url]: https://github.com/FFUV/PolyglotWebPlayground/network/members
+[stars-shield]: https://img.shields.io/github/stars/FFUV/PolyglotWebPlayground.svg?style=for-the-badge
+[stars-url]: https://github.com/FFUV/PolyglotWebPlayground/stargazers
+[issues-shield]: https://img.shields.io/github/issues/FFUV/PolyglotWebPlayground.svg?style=for-the-badge
+[issues-url]: https://github.com/FFUV/PolyglotWebPlayground/issues
+[license-shield]: https://img.shields.io/github/license/FFUV/PolyglotWebPlayground.svg?style=for-the-badge
+[license-url]: https://github.com/FFUV/PolyglotWebPlayground/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
